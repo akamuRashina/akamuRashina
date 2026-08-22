@@ -31,10 +31,18 @@ I'm a passionate Full Stack Developer who loves architecting robust backends and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akamuRashina&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <!-- GitHub Stats (Updated Server) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akamuRashina&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akamuRashina&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak (Updated to demolab server) -->
+  <img src="https://streak-stats.demolab.com/?user=akamuRashina&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Tambahan: Top Languages yang sering kamu pakai -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akamuRashina&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📫 Let's Connect!

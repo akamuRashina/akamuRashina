@@ -1,4 +1,4 @@
-# Hi there, I'm Upi! 👋
+# Hi there, I'm AkamuRashina! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+Specialist;Backend+%26+API+Architect" alt="Typing SVG" />
@@ -39,7 +39,7 @@ I'm a passionate Full Stack Developer who loves architecting robust backends and
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:zaidan1095@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>

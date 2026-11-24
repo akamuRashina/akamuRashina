@@ -17,7 +17,6 @@
     <a href="https://github.com/akamuRashina">
       <img src="https://img.shields.io/badge/Team-Digital_Aegis-10B981?style=flat-square&logo=shield&logoColor=white" alt="Digital Aegis" />
     </a>
-    <img src="https://img.shields.io/badge/Base-Sumedang%2C_Indonesia-F59E0B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <a href="mailto:akamurashi24@gmail.com">
       <img src="https://img.shields.io/badge/Email-akamurashi24%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
